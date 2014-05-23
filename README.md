@@ -4,7 +4,15 @@ Arrays represent ordered sets of data. Each element in an array can be of any da
 
 ## Goals and Expectations
 
-Arrays are a very important and common data type, which we will use frequently throughout the course. It is import important that you can recognize/describe an array, create an array, insert elements into the end of an array, iterate on an array, and retrieve/reassign elements in the array by index. Today using them still might feel uncomfortable, but a reasonable goal would be to have the above skills by the end of the week.
+Arrays are a very important and common data type, which we will use frequently throughout the course. It is import important that you can:
+
+* recognize/describe an array 
+* create an array 
+* insert elements into the end of an array
+* iterate on an array using `each`
+* retrieve/reassign elements in the array by index
+
+Today using them still might feel uncomfortable, but a reasonable goal would be to have the above skills by the end of the week.
 
 ## Example
 
