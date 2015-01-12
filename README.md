@@ -43,8 +43,8 @@ my_friends[0] = "Linda" # Replaces the string "Chris" with "Linda"
 * `delete_at` - Deletes the item at a position in the array
 * `first` - Returns the first item in the array. Same as [0]
 * `last` - Returns the last item in the array. Same as [-1]
-* `map` or `collect` - Invokes the block once for each element in the array. A bit complex to understand at first. Returns an array of the results of each block.
-* `each` - Invokes the block once for each element in the array.
+* `map` or `collect` - Invokes the block once for each element in the array. Returns an array of the results of each block.
+* `each` - Invokes the block once for each element in the array. Returns the original array.
 
 ## Your Turn
 
